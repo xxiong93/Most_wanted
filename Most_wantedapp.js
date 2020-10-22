@@ -104,3 +104,5 @@ function yesNo(input){
 function chars(input){
   return true; // default validation only
 }
+
+//THERE SHOULD BE A LINE OF TEXT HERE
